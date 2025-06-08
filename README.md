@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm just a guy who enjoys exploring the world of electronics engineering. I love tinkering with technology and learning something new every day. <br>
+I'm just a guy who enjoys exploring the world of electronics engineering and computer science. I love tinkering with technology and learning something new every day. <br>
 Feel free to check out my work.
 
 ## Technologies I use
